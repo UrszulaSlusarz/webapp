@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "floods",
+    "packageName": "pracainzynierska",
+    "packageFolder": "pracainzynierska",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ODVhOGVmZjE3OGE4MjU3Mzg5NmZiMmNiN2MwZDI4MDkxNzdlNzRmMTFlZGUzOWY2NTlmNDZkZjJkODg5YzY2MDUwOTExYjM2Yjk1OTQ0MWJiODg1YzYzYjQzNGUyYTVmMDFhNThjMzg0MjYzNjE4MjlhMGQzYWNhN2RjNzg5Y2I=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "UrszulaSlusarz",
+  "repository-name": "webapp"
+}
